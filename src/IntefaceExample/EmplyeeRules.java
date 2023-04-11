@@ -6,6 +6,6 @@ public interface EmplyeeRules
 	int workingHours= 8;
 	int leaves=10;
 public void relocate();
-public void worklingHours();
+public void workingHours();
 
 }
